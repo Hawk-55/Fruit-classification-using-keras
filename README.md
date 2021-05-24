@@ -11,4 +11,4 @@ Technology used :
       Keras
       CNN
       Flask
-      HTML CSS
+      HTML 
