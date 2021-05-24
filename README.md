@@ -4,7 +4,7 @@ This repo contains python based fruit classification using keras.
 
 Fruits data contains training and testing datasets.
 
-Flask API is used for creation of application of fruit classification and to deploy on the machine.
+Flask API is used for creation of the application of fruit classification and to deploy on the machine.
 
 Technology used :
       Python3
